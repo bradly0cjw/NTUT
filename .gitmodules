@@ -1,3 +1,6 @@
 [submodule "WP"]
 	path = WP
 	url = https://github.com/bradly0cjw/WP.git
+[submodule "DB_FE"]
+	path = DB_FE
+	url = https://github.com/bradly0cjw/DB_FE.git
