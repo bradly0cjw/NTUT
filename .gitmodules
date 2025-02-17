@@ -4,3 +4,9 @@
 [submodule "DB_FE"]
 	path = DB_FE
 	url = https://github.com/bradly0cjw/DB_FE.git
+[submodule "OS"]
+	path = OS
+	url = https://github.com/bradly0cjw/OS.git
+[submodule "CP2"]
+	path = CP2
+	url = https://github.com/bradly0cjw/CP2-NTUT.git
