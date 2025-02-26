@@ -10,3 +10,6 @@
 [submodule "CP2"]
 	path = CP2
 	url = https://github.com/bradly0cjw/CP2-NTUT.git
+[submodule "MPL"]
+	path = MPL
+	url = https://github.com/bradly0cjw/MPL.git
