@@ -16,3 +16,12 @@
 [submodule "BS"]
 	path = BS
 	url = https://github.com/bradly0cjw/Bullet_Storm.git
+[submodule "OOP"]
+	path = OOP
+	url = https://github.com/bradly0cjw/OOP.git
+[submodule "GAME"]
+	path = GAME
+	url = https://github.com/bradly0cjw/GAME.git
+[submodule "Android"]
+	path = Android
+	url = https://github.com/bradly0cjw/Android.git
