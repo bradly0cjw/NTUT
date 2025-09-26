@@ -25,3 +25,6 @@
 [submodule "Android"]
 	path = Android
 	url = https://github.com/bradly0cjw/Android.git
+[submodule "MPL"]
+	path = MPL
+	url = https://github.com/bradly0cjw/MPL.git
