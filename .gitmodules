@@ -28,3 +28,6 @@
 [submodule "MPL"]
 	path = MPL
 	url = https://github.com/bradly0cjw/MPL.git
+[submodule "SSRE"]
+	path = SSRE
+	url = https://github.com/bradly0cjw/SSRE.git
