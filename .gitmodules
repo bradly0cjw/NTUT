@@ -31,3 +31,9 @@
 [submodule "SSRE"]
 	path = SSRE
 	url = https://github.com/bradly0cjw/SSRE.git
+[submodule "CG"]
+	path = CG
+	url = https://github.com/bradly0cjw/CG.git
+[submodule "iOS"]
+	path = iOS
+	url = https://github.com/bradly0cjw/iOS.git
